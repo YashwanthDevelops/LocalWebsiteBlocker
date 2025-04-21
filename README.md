@@ -87,3 +87,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Disclaimer
 
 This tool modifies system files. While it includes safety features and creates backups, use it at your own risk. The author is not responsible for any issues that may arise from using this tool. 
+
+# Where to add website?
+Just add the name of the websites in the websites_to_block.txt file
